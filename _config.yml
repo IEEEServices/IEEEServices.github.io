@@ -1,0 +1,4 @@
+theme: jekyll-theme-cayman
+gem "github-pages", group: :jekyll_plugins
+title: IEEE Services Hackaton 2020
+description: Team up, build, win
