@@ -11,8 +11,6 @@ gem "jekyll"
 # This is the default theme for new Jekyll sites. You may change this to anything you like.
 gem "github-pages", group: :jekyll_plugins
 
-gem "jekyll-agency"
-
 # Windows and JRuby does not include zoneinfo files, so bundle the tzinfo-data gem
 # and associated library.
 platforms :mingw, :x64_mingw, :mswin, :jruby do

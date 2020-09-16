@@ -1,6 +1,6 @@
 title: IEEE Services Hackathon
 description: Team up, build, win.
-remote_theme: raviriley/agency-jekyll-theme
+theme: jekyll-agency
 
 
 github:
