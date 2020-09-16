@@ -1,0 +1,93 @@
+header:
+    title: Team up, build, win.
+    text: "IEEE Services Hackathon"
+    button: Tell Me More
+    buttonlink: "#competition" # "#{section}" or "URL/page link"
+
+services:
+    title: "The Competition"
+    text: "<div align='left'><br>
+    <p>
+    <br>
+    <b>IEEE Services Hackathon</b> is an event collocated with the 2020 IEEE World Congress on Services (SERVICES 2020), and is sponsored by the IEEE Computer Society.
+    The IEEE Computer Society established the services computing initiative two decades ago in response to the fast-growing service industry as well as the exponential rise in computing professionals.
+    <br>
+    <br>
+
+    At the IEEE Services Hackathon, we want services computing to feel relatable to students who are about to embark on their professional career, and show how services computing can be used to help people improve the quality of life. The Hackathon provides a platform for enthusiastic and driven students from a diverse range of backgrounds to collaborate and bring innovative ideas within the services computing industry to life, while providing them with an opportunity to engage with industry mentors.
+    <br>
+    <br>
+
+    <b>As a team, you will have the opportunity to engage and collaborate with other students who come from different backgrounds, as well as be able to demonstrate and hone your programming, presentation and analytical skills. You will also be paired with a mentor. At the end of the Hackathon, you will also be provided with a certificate of participation.</b>
+    <br>
+    <br>
+
+    We are also inviting young professionals to volunteer as mentors at this event. As a mentor, you will be assigned to a team to help them on their projects. Mentors must be available on the dates of the Hackathon.
+    <br>
+    We will be publishing details of the projects that you can participate in the near future so watch this space!
+      <br>
+      <br>
+
+      <span style='color:blue'>In light of the global COVID-19 situation, this event will be held virtually.</span>
+
+    </p>
+  
+    </div>"
+    section: competition
+
+portfolio:
+  title: JOIN THE COMPETITION
+  text: "<div>
+  <br>
+  <h4>Who can participate?</h4>
+  The Hackathon is open to all undergraduate and postgraduate students from Universities and institutions worldwide who are 18 years and older. We do ask, however, that you inform the organisers where you are currently based as well as your academic background to ensure a smooth and enjoyable Hackathon experience.
+  <br>
+  <br>
+  <h4>How many people can be in a team?</h4>
+  Teams must have between four and six people. If your team has less than the minimum requirements, we will ask you to merge with another team before the competition. We reserve the right to relax this requirement on the day on a team-by-team basis.
+  <br>
+  <br>
+  <br>
+  <br>
+
+  <a class='btn btn-primary btn-xl text-uppercase js-scroll-trigger' href=''>Apply to participate</a>
+ 
+  <a class='btn btn-primary btn-xl text-uppercase js-scroll-trigger' href=''>Apply to be a mentor</a>
+  
+  </div>"
+  section: participate
+
+
+timeline:
+    title: "About" 
+    text: "<div>
+    <br>
+    <div align='left'>
+    <h6>Organizing Committee</h6>
+    <ul>
+      <li>Sen Chen, Nanyang Technological University</li>
+      <li>Sue Ann Chen, IBM</li>
+      <li>Jaejoon Lee, University of East Anglia</li>
+      <li>Xiao Ma, Beijing University of Posts and Telecommunications</li>
+      <li>Giovanni Quattrocchi, Politecnico di Milano</li>
+      <li>Jinjun Xiong (Chair), IBM </li>
+      <li>Ao Zhou, Beijing University of Posts and Telecommunications</li>
+      <li>Jia Zou, Arizona State University</li>
+    </ul>
+    </div>
+    <br>
+
+    <h6>For all other concerns/questions, please feel free to reach out to us pressing the button below.<h6>
+    <br>
+  
+    <a class='btn btn-primary btn-xl text-uppercase js-scroll-trigger' href='services2020.hackathon@gmail.com'>Speak with us!</a>
+    
+    </div>
+    "
+    section: timeline
+   
+
+
+
+
+# {{ site.data.sitetext.ex.ex | markdownify | default: example }}
