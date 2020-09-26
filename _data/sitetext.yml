@@ -29,8 +29,9 @@ services:
       <br>
 
       <span style='color:blue'>In light of the global COVID-19 situation, this event will be held virtually.</span>
-
     </p>
+    <div align='center'><a class='btn btn-primary btn-xl text-uppercase js-scroll-trigger' href='assets/problem.pdf'>DOWNLOAD THE PROBLEM</a></div>
+
   
     </div>"
     section: competition
@@ -50,7 +51,7 @@ portfolio:
   <br>
   <br>
 
-  <a class='btn btn-primary btn-xl text-uppercase js-scroll-trigger' href=''>Apply to participate</a>
+  <a class='btn btn-primary btn-xl text-uppercase js-scroll-trigger' href='https://ieeeservices-quill.herokuapp.com/login'>Apply to participate</a>
  
   <a class='btn btn-primary btn-xl text-uppercase js-scroll-trigger' href=''>Apply to be a mentor</a>
   
