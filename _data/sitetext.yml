@@ -30,7 +30,10 @@ services:
 
       <span style='color:blue'>In light of the global COVID-19 situation, this event will be held virtually.</span>
     </p>
-    <div align='center'><a class='btn btn-primary btn-xl text-uppercase js-scroll-trigger' href='assets/problem.pdf'>DOWNLOAD THE PROBLEM</a></div>
+    <div align='center'>
+    <a class='btn btn-primary btn-xl text-uppercase js-scroll-trigger' href='assets/problem.pdf'>DOWNLOAD THE PROBLEM</a>
+    <a class='btn btn-secondary btn-xl text-uppercase js-scroll-trigger' href='https://join.slack.com/t/ieeeserviceshackathon/shared_invite/zt-hxwhlx42-pDGFK~EFfaFNcD90aywpHQ'>JOIN OUR SLACK</a>
+    </div>
 
   
     </div>"
@@ -53,7 +56,7 @@ portfolio:
 
   <a class='btn btn-primary btn-xl text-uppercase js-scroll-trigger' href='https://ieeeservices-quill.herokuapp.com/login'>Apply to participate</a>
  
-  <a class='btn btn-primary btn-xl text-uppercase js-scroll-trigger' href='https://forms.gle/mzCH7mMToG7DD78RA'>Apply to be a mentor</a>
+  <a class='btn btn-secondary btn-xl text-uppercase js-scroll-trigger' href='https://forms.gle/mzCH7mMToG7DD78RA'>Apply to be a mentor</a>
   
   </div>"
   section: participate
