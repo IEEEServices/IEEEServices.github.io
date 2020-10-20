@@ -25,18 +25,16 @@ services:
     We are also inviting young professionals to volunteer as mentors at this event. As a mentor, you will be assigned to a team to help them on their projects. Mentors must be available on the dates of the Hackathon.
     <br>
     <br>
-   <b> Details of the Hackathon project are available in the link below. </b>
+   <b> Details of the Hackathon project are available in the links below. </b>
       <br>
       <br>
 
       <span style='color:blue'>In light of the global COVID-19 situation, this event will be held virtually.</span>
     </p>
     <div align='center'>
-    <a class='btn btn-primary btn-xl text-uppercase js-scroll-trigger' href='assets/problem.pdf'>DOWNLOAD THE PROBLEM</a>
+    <a class='btn btn-primary btn-xl text-uppercase js-scroll-trigger' href='https://github.com/IEEEServices/hackathon'>ACCESS THE PROBLEM</a>
     <a class='btn btn-secondary btn-xl text-uppercase js-scroll-trigger' href='https://join.slack.com/t/ieeeserviceshackathon/shared_invite/zt-hxwhlx42-pDGFK~EFfaFNcD90aywpHQ'>JOIN OUR SLACK</a>
     </div>
-
-  
     </div>"
     section: competition
 
